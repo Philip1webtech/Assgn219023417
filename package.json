@@ -1,0 +1,17 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Web App",
+  "main": "app.js",
+  "scripts": {
+    "Start": "nodemon app.js"
+  },
+  "author": "Hlomador Philip",
+  "license": "ISC",
+  "dependencies": {
+    "eje": "^1.0.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7"
+  }
+}

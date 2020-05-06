@@ -1,0 +1,40 @@
+[
+
+    {
+        "name": "Hlomador Philip",
+        "role": "CEO",
+        "id": "001",
+        "email": "Hlomador@gmail.com",
+        "image":"https://images.unsplash.com/photo-1496493012404-97903cd749a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {    
+        "name": "Asare Evans",
+        "role": "COO",
+        "id": "002",
+        "email": "Asare@gmail.com",
+        "image":"https://images.unsplash.com/photo-1588708930513-9bb61090b350?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "name": "Kotey Sandra",
+        "role": "Secretary",
+        "id": "003",
+        "email": "Kotey@gmail.com",
+        "image":"https://images.unsplash.com/photo-1588568002455-93d15cb7b1ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "name": "Blagodzge Vincent",
+        "role": "Accountant",
+        "id": "004",
+        "email": "Blagodze@gmail.com",
+        "image":"https://images.unsplash.com/photo-1583777061702-a65b9cae2a4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "name": "Dzgede Uzziel",
+        "role": "Production Manager",
+        "id": "006",
+        "email": "Dzgede@gmail.com",
+        "image":"https://images.unsplash.com/photo-1588359348347-9bc6cbbb689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    }
+    
+    
+]
